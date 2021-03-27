@@ -26,7 +26,7 @@ SECRET_KEY = '7xvy%gs9ky(@v0+_%%3@^ijbo4z0gy(qg%u6jkmnozax(u8c@u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['f8c4ff5-django-eko-shop-app-herokuapp.com']
 
 
 # Application definition
